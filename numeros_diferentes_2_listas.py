@@ -1,8 +1,9 @@
-# A la antigua
+# # A la antigua
 a = [1, 10, 5, 3, 8]
 b = [8, 80, 100, 3, 10]
 c = list()
 notrepeted = 0
+
 for item1 in a:
     for item2 in b:
         if item1 != item2:
